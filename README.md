@@ -3,6 +3,7 @@ Script that automate the creation of two other scripts to test network between t
 
 # Instalation
 This script was tested in Linux systems with shell script
+
 you need to install iperf (https://iperf.fr/iperf-download.php) on both hosts.
 
 # Using the script
